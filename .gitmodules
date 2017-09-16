@@ -1,0 +1,3 @@
+[submodule "PluginLoaderCore"]
+	path = PluginLoaderCore
+	url = git@github.com:shby0527/PluginLoaderCore.git
